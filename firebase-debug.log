@@ -1,0 +1,21 @@
+[debug] [2024-08-31T02:45:23.404Z] ----------------------------------------------------------------------
+[debug] [2024-08-31T02:45:23.424Z] Command:       C:\Program Files\nodejs\node.exe C:\Users\blanc\AppData\Roaming\npm\node_modules\firebase-tools\lib\bin\firebase.js init
+[debug] [2024-08-31T02:45:23.426Z] CLI Version:   13.16.0
+[debug] [2024-08-31T02:45:23.426Z] Platform:      win32
+[debug] [2024-08-31T02:45:23.427Z] Node Version:  v20.17.0
+[debug] [2024-08-31T02:45:23.427Z] Time:          Fri Aug 30 2024 23:45:23 GMT-0300 (hora estándar de Argentina)
+[debug] [2024-08-31T02:45:23.428Z] ----------------------------------------------------------------------
+[debug] 
+[debug] [2024-08-31T02:45:23.455Z] > command requires scopes: ["email","openid","https://www.googleapis.com/auth/cloudplatformprojects.readonly","https://www.googleapis.com/auth/firebase","https://www.googleapis.com/auth/cloud-platform"]
+[debug] [2024-08-31T02:45:23.456Z] > authorizing via signed-in user (clearbunnysoftware@gmail.com)
+[info] 
+     ######## #### ########  ######## ########     ###     ######  ########
+     ##        ##  ##     ## ##       ##     ##  ##   ##  ##       ##
+     ######    ##  ########  ######   ########  #########  ######  ######
+     ##        ##  ##    ##  ##       ##     ## ##     ##       ## ##
+     ##       #### ##     ## ######## ########  ##     ##  ######  ########
+
+You're about to initialize a Firebase project in this directory:
+
+  C:\Users\blanc\Desktop\clearCompras\backendCompras
+
